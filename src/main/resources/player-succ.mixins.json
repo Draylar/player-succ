@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "draylar.playersucc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "HopperBlockEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,15 +1,7 @@
 # Player Succ
 
-*Player Succ* is a slightly cursed Minecraft mod that allows Hoppers to take items out of player inventories.
+*Player Succ* is a Fabric mod which allows Hoppers to suck items out of players above them.
 
-Requires the [Fabric Loader](https://fabricmc.net/) to use. Fabric API is not required.
+Supports 1.15, 1.16, and 1.18!
 
-### Showcase
-
-*(Click to play in streamable)*
-
-[![Showcase Video](https://i.imgur.com/zdypEwF.png)](https://streamable.com/yl7f0q)
-
-### License
-
-CC0-1.0.
+![](resources/banner.png)
